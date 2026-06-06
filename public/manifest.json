@@ -1,0 +1,21 @@
+{
+  "name": "Extngo - Retractable Ethernet Cable",
+  "short_name": "Extngo",
+  "description": "The world's first retractable flat ethernet cable reel. 50ft CAT6, zero tangles, zero trip hazards.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#E8431A",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
